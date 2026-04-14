@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1776168200 source:c:\users\unscomic\desktop\cpplearning\tic_tac_toe\main.cpp
+	<iostream>
+	<algorithm>
+	<climits>
+	<vector>
+
