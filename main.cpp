@@ -87,8 +87,8 @@ public:
     }
     void computer_set(){//µçÄÔÂä×Ó
         vector<int> temp=predict();
-        int tarx=predict()[1];
-        int tary=predict()[2];
+        int tarx=temp[1];
+        int tary=temp[2];
         b[tarx][tary]=2;
         pointcount++;
     }
